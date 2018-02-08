@@ -365,7 +365,7 @@
 
             var LOAD_GAE_API = false;
             var LOADING_GAE_API = false;
-            var URL = 'https://apis.google.com/js/client:platform.js?onload=_gapiOnLoad';
+            var URL = 'https://apis.google.com/js/client.js?onload=_gapiOnLoad';
             var API_KEY = null;
             var OBSERVER_CALLBACKS  = [];
 
